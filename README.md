@@ -12,3 +12,6 @@ dompet tampak belakang
 ![181359](https://user-images.githubusercontent.com/81339649/134115472-db123e83-c39f-4fe8-983b-a6652c1b2195.jpg)
 dompet tampak samping kiri
 ![181358](https://user-images.githubusercontent.com/81339649/134115495-ef1612d7-2447-474e-82e2-9c4816ad8c26.jpg)
+
+gambar vertices
+![dompet](https://user-images.githubusercontent.com/81339649/136064730-76d17875-91c4-4ece-8f52-e64a0ed317a0.jpg)
